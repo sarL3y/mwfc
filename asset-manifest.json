@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mwfc/static/css/main.3b89c941.chunk.css",
+    "main.css": "/mwfc/static/css/main.5b93d3e8.chunk.css",
     "main.js": "/mwfc/static/js/main.3d2136be.chunk.js",
     "main.js.map": "/mwfc/static/js/main.3d2136be.chunk.js.map",
     "runtime-main.js": "/mwfc/static/js/runtime-main.2285a5d3.js",
@@ -8,15 +8,15 @@
     "static/js/2.5188caab.chunk.js": "/mwfc/static/js/2.5188caab.chunk.js",
     "static/js/2.5188caab.chunk.js.map": "/mwfc/static/js/2.5188caab.chunk.js.map",
     "index.html": "/mwfc/index.html",
-    "precache-manifest.6bad329bb31fa3d92a98fdb3102d4856.js": "/mwfc/precache-manifest.6bad329bb31fa3d92a98fdb3102d4856.js",
+    "precache-manifest.413027e1c8f2cf4f8d71c79653876926.js": "/mwfc/precache-manifest.413027e1c8f2cf4f8d71c79653876926.js",
     "service-worker.js": "/mwfc/service-worker.js",
-    "static/css/main.3b89c941.chunk.css.map": "/mwfc/static/css/main.3b89c941.chunk.css.map",
+    "static/css/main.5b93d3e8.chunk.css.map": "/mwfc/static/css/main.5b93d3e8.chunk.css.map",
     "static/js/2.5188caab.chunk.js.LICENSE": "/mwfc/static/js/2.5188caab.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.2285a5d3.js",
     "static/js/2.5188caab.chunk.js",
-    "static/css/main.3b89c941.chunk.css",
+    "static/css/main.5b93d3e8.chunk.css",
     "static/js/main.3d2136be.chunk.js"
   ]
 }
