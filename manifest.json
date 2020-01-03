@@ -1,0 +1,11 @@
+{
+  "short_name": "MWFC",
+  "name": "Moorpark Women's Fortnightly Club",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
