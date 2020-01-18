@@ -11,10 +11,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #C62828;
   font-size: 14px;
-
-  a {
-    color: #C62828;
-  }
 }
 
 code {
@@ -50,6 +46,7 @@ h3 {
 
 a {
   text-decoration: none;
+  color: inherit;
 
   &:visited, :link, :active, :hover {
     color: inherit;

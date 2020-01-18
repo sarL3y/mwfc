@@ -9,7 +9,7 @@ export default function Home(props) {
             <div className="main-content">
                 <section className="main-hero">
                     <div className="hero-img">
-                        <img src={"/women_group.jpg"} alt="Women helping each other" />
+                        <img src={"/img/women_group.jpg"} alt="Women helping each other" />
                     </div>
                     <div className="hero-img-overlay">
 
